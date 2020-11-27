@@ -9,7 +9,7 @@ This repository contains data and code from:
 Ramsey, D.S.L., Watters, F., Forsyth, D.M., Wood, M., Todd, C.R.,
 Molsher, R., and Cassey, P. (2020). “Long-term fertility control reduces
 overabundant koala populations and mitigates their impacts on food
-trees” *Biological Conservation*
+trees” *Biological Conservation* (in press).
 
 [![DOI](https://zenodo.org/badge/316354902.svg)](https://zenodo.org/badge/latestdoi/316354902)
 
