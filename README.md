@@ -11,6 +11,8 @@ Molsher, R., and Cassey, P. (2020). “Long-term fertility control reduces
 overabundant koala populations and mitigates their impacts on food
 trees” *Biological Conservation*
 
+[![DOI](https://zenodo.org/badge/316354902.svg)](https://zenodo.org/badge/latestdoi/316354902)
+
 ## Getting started
 
 **File descriptions**:
